@@ -2,6 +2,10 @@
 // Armada Adrian Nasar - 2101684790
 // Chrisnaldy Yohannes - 2101639572
 // Michael Young - 2101639931
+//
+// REFERENSI:
+// https://www.geeksforgeeks.org/printing-paths-dijkstras-shortest-path-algorithm/
+// Introduction to Java Programming: Comprehensive Version, 10th Edition, Y. Daniel Liang
 
 #include <stdio.h>
 #include <limits.h>
